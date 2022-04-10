@@ -4,25 +4,18 @@
   
   
   <entry>
-    <title>test_my_site</title>
-    <link href="/2022/04/09/test-my-site/"/>
-    <url>/2022/04/09/test-my-site/</url>
+    <title>220409:优美的低于生活</title>
+    <link href="/2022/04/09/220409%E4%BC%98%E7%BE%8E%E7%9A%84%E4%BD%8E%E4%BA%8E%E7%94%9F%E6%B4%BB/"/>
+    <url>/2022/04/09/220409%E4%BC%98%E7%BE%8E%E7%9A%84%E4%BD%8E%E4%BA%8E%E7%94%9F%E6%B4%BB/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>#日记<br>距离我上次写日记，时间已经过去了近一年。那时候我搬出宿舍，在教师公寓楼里租房子住，忍受着漫边无际的酷热预谋着一场大事，我以为我定能够有一番成就，所以开始重新提笔，每天在日记本上写下那么几句。我第一天的日记怀念了我的一位初中同学，她当年在我的QQ空间留言板上写了这么一条留言：“冬天里的太阳就像冰箱里的灯。”这句话之所以我能够记在心里这么多年，原因就在于她是一个很好的人，我特别珍视她为我写下的这条留言，尽管后来我们考上了不同的高中，此后不曾再见面，尽管我上了高中就删掉了她的QQ——实际上我删光了初中同学的联系方式，可我依旧忘不掉她。<br>她的姓很特别，“允”，因为后边的名字跟当时的韩国总统朴槿惠一样，我率先用“朴总”喊她，有时候喊她“嫖”总。这是我不能忘记她的原因之一。<br>原因之二是因为当时兰州太热了，我坐在狭小的空间里仿佛一只蒸笼里的鲤鱼。夜灯下的我不停地出汗，白短袖不停地被汗液腌制着，一遍遍被染黄。窗子从来都没关过，虽然它的纱窗破着洞，可房间里还是那么热，你真怀疑世界末日是不是也同此时屋子里的状况一样教人绝望。在这样的情景下，想起这么一句话，“冬天里的太阳就像冰箱里的灯”，“冬天”，“冰箱”，单单这样的字眼已使人感到舒服无比了，更何况这话出自一位冰清玉洁般的姑娘。想起这句话，想起这位姑娘，你就感觉到一股凉风透体袭来，她为你带来片刻的镇静，带来习习微凉，你应该感谢她！<br>那为什么在今天的日记里仍然怀念这句话？我想大概是因为我很久以来未曾写过东西了，想起上一次的日记，就想起这句话。这句话所具有的魔力久久萦绕在我的心中不能散去…其实最重要的原因是我不知道如何为这篇日记以及接下来的写作开头，我失去了这种能力，我不知道怎样去面对这种干涸窒息的状态……愿你能再次为我带来片刻的镇静，带来习习微凉。<br>今天仍旧睡到中午起床，没有吃午饭，吃了两块饼干就一直呆呆地打游戏，终于拿到了2022年的服役胸章，开开心心卸载了CSGO，专心致志地去记单词。单词，单词，哦，单词……<br>下午仔仔细细看了一部电影，《最后的舞者》，晚上吃了忘加花生碎的热干面，看了一部纪录片，《我毕业了》。看完又记了一会单词，等待着班主任视频点名，然后搭建了个人博客。今天写日记的直接动机就在这了！我的博客，就应当有我的文字！<br>现在我要饿着肚子去睡觉了，我希望不要有任何人来打扰我。为什么要饿着肚子？我想这是热干面之必要，加蛋加肠之必要，久坐之必要，安宁区之必要，生活之必要，优美之必要……</p>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2022/04/09/hello-world/"/>
-    <url>/2022/04/09/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
     
     
   </entry>
