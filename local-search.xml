@@ -4,12 +4,208 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2022/05/06/Untitled/"/>
-    <url>/2022/05/06/Untitled/</url>
+    <title>宇宙，父与子</title>
+    <link href="/2022/05/14/%E5%AE%87%E5%AE%99%EF%BC%8C%E7%88%B6%E4%B8%8E%E5%AD%90/"/>
+    <url>/2022/05/14/%E5%AE%87%E5%AE%99%EF%BC%8C%E7%88%B6%E4%B8%8E%E5%AD%90/</url>
     
-    <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br><span class="line">156</span><br><span class="line">157</span><br><span class="line">158</span><br><span class="line">159</span><br><span class="line">160</span><br><span class="line">161</span><br><span class="line">162</span><br><span class="line">163</span><br><span class="line">164</span><br><span class="line">165</span><br><span class="line">166</span><br><span class="line">167</span><br><span class="line">168</span><br><span class="line">169</span><br><span class="line">170</span><br><span class="line">171</span><br><span class="line">172</span><br><span class="line">173</span><br><span class="line">174</span><br><span class="line">175</span><br><span class="line">176</span><br><span class="line">177</span><br><span class="line">178</span><br><span class="line">179</span><br><span class="line">180</span><br><span class="line">181</span><br><span class="line">182</span><br><span class="line">183</span><br><span class="line">184</span><br><span class="line">185</span><br><span class="line">186</span><br><span class="line">187</span><br><span class="line">188</span><br><span class="line">189</span><br><span class="line">190</span><br><span class="line">191</span><br><span class="line">192</span><br><span class="line">193</span><br><span class="line">194</span><br><span class="line">195</span><br><span class="line">196</span><br><span class="line">197</span><br><span class="line">198</span><br><span class="line">199</span><br><span class="line">200</span><br><span class="line">201</span><br><span class="line">202</span><br><span class="line">203</span><br><span class="line">204</span><br><span class="line">205</span><br><span class="line">206</span><br><span class="line">207</span><br><span class="line">208</span><br><span class="line">209</span><br><span class="line">210</span><br><span class="line">211</span><br><span class="line">212</span><br><span class="line">213</span><br><span class="line">214</span><br><span class="line">215</span><br><span class="line">216</span><br><span class="line">217</span><br><span class="line">218</span><br><span class="line">219</span><br><span class="line">220</span><br><span class="line">221</span><br><span class="line">222</span><br><span class="line">223</span><br><span class="line">224</span><br><span class="line">225</span><br><span class="line">226</span><br><span class="line">227</span><br><span class="line">228</span><br><span class="line">229</span><br><span class="line">230</span><br><span class="line">231</span><br><span class="line">232</span><br><span class="line">233</span><br><span class="line">234</span><br><span class="line">235</span><br></pre></div></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> cv2<br><span class="hljs-keyword">import</span> dlib<br><span class="hljs-keyword">import</span> time<br><span class="hljs-keyword">import</span> threading<br><span class="hljs-keyword">import</span> math<br><span class="hljs-keyword">import</span> numpy <span class="hljs-keyword">as</span> np<br><br><br><span class="hljs-comment"># 加载车辆识别的分类器,提取车辆的Harr特征</span><br>carCascade = cv2.CascadeClassifier(<span class="hljs-string">&#x27;myhaar.xml&#x27;</span>)<br>time1 = time.time()<br><span class="hljs-comment"># 读取视频文件</span><br>video = cv2.VideoCapture(<span class="hljs-string">&#x27;demo5043.mp4&#x27;</span>)<br><br><span class="hljs-comment"># 初始值定义</span><br>WIDTH = <span class="hljs-number">720</span><br>HEIGHT = <span class="hljs-number">560</span><br>carWidth = <span class="hljs-number">1.85</span><br>cars_number = <span class="hljs-number">0</span><br><span class="hljs-comment">#traffic_flow = &#123;&#125;</span><br>car_count = <span class="hljs-number">0</span><br>p1 = -<span class="hljs-number">4.2586</span><br>p2 = -<span class="hljs-number">3.4042</span><br>p3 = <span class="hljs-number">34.0691</span><br>p4 = <span class="hljs-number">27.7313</span><br>p5 = -<span class="hljs-number">103.6872</span><br>p6 = -<span class="hljs-number">77.1037</span><br>p7 = <span class="hljs-number">160.6927</span><br>p8 = <span class="hljs-number">76.3085</span><br>p9 = -<span class="hljs-number">156.4477</span><br>p10 = -<span class="hljs-number">8.2554</span><br>p11 = <span class="hljs-number">134.3258</span><br><br><span class="hljs-comment">#分段调光基准计算</span><br><span class="hljs-keyword">def</span> <span class="hljs-title function_">lig</span>(<span class="hljs-params">location_i</span>):<br>    light_b = <span class="hljs-number">140</span><br>    discount = np.arry[location_i] = [<span class="hljs-number">1</span>,<span class="hljs-number">0.5</span>,<span class="hljs-number">0.15</span>,<span class="hljs-number">0.05</span>,<span class="hljs-number">0.02</span>,<span class="hljs-number">0.01428571</span>,<span class="hljs-number">0.01142875</span>,<span class="hljs-number">0.05714286</span>,<span class="hljs-number">0.03428571</span>]<br>    light_d = discount[location_i] * light_b<br>    <span class="hljs-keyword">return</span> light_d<br><br><br><span class="hljs-comment">#实时照明需求计算与调光方案选择</span><br><span class="hljs-keyword">def</span> <span class="hljs-title function_">diming</span>(<span class="hljs-params">carf</span>):<br>    <span class="hljs-keyword">global</span> dim<br>    carq = <span class="hljs-number">80</span> * carf - <span class="hljs-number">0.6452</span> * carf * carf<br>    x1=(carf-<span class="hljs-number">64.5</span>)/<span class="hljs-number">37.67</span><br>    light = \<br>        p1*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">10</span>) + p2*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">9</span>) \<br>        +p3*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">8</span>) + p4*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">7</span>) \<br>        + p5*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">6</span>) + p6*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">5</span>) \<br>        +p7*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">4</span>) + p8*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">3</span>) \<br>        + p9*math.<span class="hljs-built_in">pow</span>(x1,<span class="hljs-number">2</span>) + p10*x1 +p11<br>    <span class="hljs-built_in">print</span>(carf,<span class="hljs-built_in">round</span>(carq),<span class="hljs-built_in">round</span>(light))<br>    <span class="hljs-keyword">if</span> carf !=<span class="hljs-number">124</span>:<br>        <span class="hljs-keyword">if</span> carf&lt;<span class="hljs-number">63</span>:<br>            <span class="hljs-keyword">if</span> carf&lt;<span class="hljs-number">13</span>:<br>                dim = <span class="hljs-string">&#x27;休眠&#x27;</span><br>            <span class="hljs-keyword">elif</span> carf &gt;= <span class="hljs-number">20</span>:<br>                dim = <span class="hljs-string">&#x27;渐强&#x27;</span><br>        <span class="hljs-keyword">elif</span> carf&gt;=<span class="hljs-number">63</span>:<br>            dim = <span class="hljs-string">&#x27;渐弱&#x27;</span><br>    <span class="hljs-keyword">if</span>  carf == <span class="hljs-number">124</span>:<br>        dim = <span class="hljs-string">&#x27;休眠&#x27;</span><br>    <span class="hljs-keyword">return</span> dim<br><br><br><span class="hljs-comment"># 速度测算函数</span><br><span class="hljs-keyword">def</span> <span class="hljs-title function_">estimateSpeed</span>(<span class="hljs-params">location1, location2, mySpeed, fps</span>):<br>    <span class="hljs-comment"># 计算像素距离</span><br>    d_pixels = math.sqrt(math.<span class="hljs-built_in">pow</span>(location2[<span class="hljs-number">0</span>] - location1[<span class="hljs-number">0</span>], <span class="hljs-number">2</span>) + math.<span class="hljs-built_in">pow</span>(location2[<span class="hljs-number">1</span>] - location1[<span class="hljs-number">1</span>], <span class="hljs-number">2</span>))<br>    ppm = location2[<span class="hljs-number">2</span>] / carWidth<br>    d_meters = d_pixels / ppm<br>    speed = mySpeed + d_meters * fps<br>    speed = speed / <span class="hljs-number">3</span><br>    <span class="hljs-keyword">return</span> speed<br><br><span class="hljs-comment">#目标检测自定义函数</span><br><span class="hljs-keyword">def</span> <span class="hljs-title function_">trackMultipleObjects</span>():<br>    <span class="hljs-keyword">global</span> car_count<br>    <span class="hljs-keyword">global</span> currentCarID<br>    rectangleColor = (<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">255</span>)<br>    frameCounter = <span class="hljs-number">0</span><br>    currentCarID = <span class="hljs-number">0</span><br>    fps = <span class="hljs-number">0</span><br><br>    carTracker = &#123;&#125;<br>    carNumbers = &#123;&#125;<br>    carLocation1 = &#123;&#125;<br>    carLocation2 = &#123;&#125;<br><br>    <span class="hljs-comment"># 写入文件</span><br>    out = cv2.VideoWriter(<span class="hljs-string">&#x27;outpy.avi&#x27;</span>, cv2.VideoWriter_fourcc(<span class="hljs-string">&#x27;M&#x27;</span>, <span class="hljs-string">&#x27;J&#x27;</span>, <span class="hljs-string">&#x27;P&#x27;</span>, <span class="hljs-string">&#x27;G&#x27;</span>), <span class="hljs-number">10</span>, (WIDTH, HEIGHT))<br><br>    <span class="hljs-keyword">while</span> <span class="hljs-literal">True</span>:<br>        <span class="hljs-comment"># 读取视频帧</span><br>        start_time = time.time()<br>        rc, image = video.read()<br>        flowtime_start = time.time()<br>        <span class="hljs-comment"># 检查是否到达视频末尾</span><br>        <span class="hljs-keyword">if</span> <span class="hljs-built_in">type</span>(image) == <span class="hljs-built_in">type</span>(<span class="hljs-literal">None</span>):<br>            <span class="hljs-keyword">break</span><br><br>        <span class="hljs-comment"># 转换帧的大小，以加快处理速度</span><br>        image = cv2.resize(image, (WIDTH, HEIGHT))<br>        resultImage = image.copy()<br><br>        frameCounter = frameCounter + <span class="hljs-number">1</span><br><br>        carIDtoDelete = []<br><br>        <span class="hljs-comment"># 建立追踪目标</span><br>        <span class="hljs-keyword">for</span> carID <span class="hljs-keyword">in</span> carTracker.keys():<br>            trackingQuality = carTracker[carID].update(image)<br><br>            <span class="hljs-keyword">if</span> trackingQuality &lt; <span class="hljs-number">7</span>:<br>                carIDtoDelete.append(carID)<br><br>        <span class="hljs-keyword">for</span> carID <span class="hljs-keyword">in</span> carIDtoDelete:<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;Removing carID &#x27;</span> + <span class="hljs-built_in">str</span>(carID) + <span class="hljs-string">&#x27; from list of trackers.&#x27;</span>)<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;Removing carID &#x27;</span> + <span class="hljs-built_in">str</span>(carID) + <span class="hljs-string">&#x27; previous location.&#x27;</span>)<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;Removing carID &#x27;</span> + <span class="hljs-built_in">str</span>(carID) + <span class="hljs-string">&#x27; current location.&#x27;</span>)<br>            carTracker.pop(carID, <span class="hljs-literal">None</span>)<br>            carLocation1.pop(carID, <span class="hljs-literal">None</span>)<br>            carLocation2.pop(carID, <span class="hljs-literal">None</span>)<br>        time1 = time.time() <br>        <span class="hljs-keyword">if</span> <span class="hljs-keyword">not</span> (frameCounter % <span class="hljs-number">10</span>):<br>            <span class="hljs-comment"># 将图像转换成灰度图像</span><br>            gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)<br>            <span class="hljs-comment"># 检测视频中的车辆，并用vector保存车辆的坐标、大小（用矩形表示）</span><br>            <span class="hljs-comment"># x,y表示第n帧第i个运动目标外接矩形的中心横坐标和纵坐标位置，利用该坐标粗略估计目标所在的位置。</span><br>            <span class="hljs-comment"># w,h表示第n帧第i个运动目标外接矩形的宽度和长度，可以描述车辆目标的大小</span><br>            cars = carCascade.detectMultiScale(gray, <span class="hljs-number">1.1</span>, <span class="hljs-number">13</span>, <span class="hljs-number">0</span>, (<span class="hljs-number">24</span>, <span class="hljs-number">24</span>))<br><br>            <span class="hljs-comment"># 车辆检测</span><br>            <span class="hljs-keyword">for</span> (_x, _y, _w, _h) <span class="hljs-keyword">in</span> cars:<br>                x = <span class="hljs-built_in">int</span>(_x)<br>                y = <span class="hljs-built_in">int</span>(_y)<br>                w = <span class="hljs-built_in">int</span>(_w)<br>                h = <span class="hljs-built_in">int</span>(_h)<br><br>                x_bar = x + <span class="hljs-number">0.5</span> * w<br>                y_bar = y + <span class="hljs-number">0.5</span> * h<br><br>                matchCarID = <span class="hljs-literal">None</span><br><br>                <span class="hljs-keyword">for</span> carID <span class="hljs-keyword">in</span> carTracker.keys():<br>                    trackedPosition = carTracker[carID].get_position()<br><br>                    t_x = <span class="hljs-built_in">int</span>(trackedPosition.left())<br>                    t_y = <span class="hljs-built_in">int</span>(trackedPosition.top())<br>                    t_w = <span class="hljs-built_in">int</span>(trackedPosition.width())<br>                    t_h = <span class="hljs-built_in">int</span>(trackedPosition.height())<br><br>                    t_x_bar = t_x + <span class="hljs-number">0.5</span> * t_w<br>                    t_y_bar = t_y + <span class="hljs-number">0.5</span> * t_h<br><br>                    <span class="hljs-keyword">if</span> ((t_x &lt;= x_bar &lt;= (t_x + t_w)) <span class="hljs-keyword">and</span> (t_y &lt;= y_bar &lt;= (t_y + t_h)) <span class="hljs-keyword">and</span> (<br>                            x &lt;= t_x_bar &lt;= (x + w)) <span class="hljs-keyword">and</span> (y &lt;= t_y_bar &lt;= (y + h))):<br>                        matchCarID = carID<br><br>                <span class="hljs-keyword">if</span> matchCarID <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>:<br>                    <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;Creating new tracker &#x27;</span> + <span class="hljs-built_in">str</span>(currentCarID))<br>                    <span class="hljs-comment"># 构造追踪器</span><br>                    tracker = dlib.correlation_tracker()<br>                    <span class="hljs-comment"># 设置追踪器的初始位置</span><br>                    <span class="hljs-comment"># 如果识别出车辆，会以Rect(x,y,w,h)的形式返回车辆的位置，然后用一个矩形网格标识车辆</span><br>                    tracker.start_track(image, dlib.rectangle(x, y, x + w, y + h))<br><br>                    carTracker[currentCarID] = tracker<br>                    carLocation1[currentCarID] = [x, y, w, h]<br><br><br><br><br>                    <span class="hljs-comment">#车流密度以及当前车流量下的照明需求计算</span><br>                    <span class="hljs-comment">#cars_number1 = currentCarID</span><br>                    currentCarID = currentCarID + <span class="hljs-number">1</span><br>                    time2 = time.time()<br>                    <span class="hljs-built_in">print</span>(time2,currentCarID)<br>                    car_f = <span class="hljs-number">10</span>/((time2-time1)*<span class="hljs-number">10</span>)<br>                    diming(car_f)<br>                    <span class="hljs-built_in">print</span>(dim)<br><br><br>        <span class="hljs-keyword">for</span> carID <span class="hljs-keyword">in</span> carTracker.keys():<br>            <span class="hljs-comment"># 获得追踪器的当前位置</span><br>            trackedPosition = carTracker[carID].get_position()<br><br>            t_x = <span class="hljs-built_in">int</span>(trackedPosition.left())<br>            t_y = <span class="hljs-built_in">int</span>(trackedPosition.top())<br>            t_w = <span class="hljs-built_in">int</span>(trackedPosition.width())<br>            t_h = <span class="hljs-built_in">int</span>(trackedPosition.height())<br><br>            cv2.rectangle(resultImage, (t_x, t_y), (t_x + t_w, t_y + t_h), rectangleColor, <span class="hljs-number">2</span>)<br><br>            <span class="hljs-comment"># speed estimation</span><br>            carLocation2[carID] = [t_x, t_y, t_w, t_h]<br><br>        <span class="hljs-comment"># 计算时间差</span><br>        end_time = time.time()<br><br>        <span class="hljs-comment"># 计算帧率</span><br>        <span class="hljs-keyword">if</span> <span class="hljs-keyword">not</span> (end_time == start_time):<br>            fps = <span class="hljs-number">1.0</span> / (end_time - start_time)<br>        cv2.putText(resultImage, <span class="hljs-string">&#x27;FPS: &#x27;</span> + <span class="hljs-built_in">str</span>(<span class="hljs-built_in">int</span>(fps)), (<span class="hljs-number">620</span>, <span class="hljs-number">30</span>), cv2.FONT_HERSHEY_SIMPLEX, <span class="hljs-number">0.75</span>, (<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">255</span>), <span class="hljs-number">2</span>)<br><br>        <span class="hljs-comment"># 计算车速</span><br><br>        <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> carLocation1.keys():<br>            <span class="hljs-keyword">if</span> frameCounter % <span class="hljs-number">10</span> == <span class="hljs-number">0</span>:<br>                [x1, y1, w1, h1] = carLocation1[i]<br>                [x2, y2, w2, h2] = carLocation2[i]<br>                <span class="hljs-comment"># print &#x27;previous location: &#x27; + str(carLocation1[i]) + &#x27;, current location: &#x27; + str(carLocation2[i])</span><br>                carLocation1[i] = [x2, y2, w2, h2]<br>                <span class="hljs-comment"># print &#x27;new previous location: &#x27; + str(carLocation1[i])</span><br>                <span class="hljs-keyword">if</span> [x1, y1, w1, h1] != [x2, y2, w2, h2]:<br>                    <span class="hljs-keyword">global</span> speed<br>                    speed = estimateSpeed([x1, y1, w1, h1], [x2, y2, w2, h2], <span class="hljs-number">100</span>, fps)<br>                    <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;CarID &#x27;</span> + <span class="hljs-built_in">str</span>(i) + <span class="hljs-string">&#x27; speed is &#x27;</span> + <span class="hljs-built_in">str</span>(<span class="hljs-string">&quot;%.2f&quot;</span> % <span class="hljs-built_in">round</span>(speed, <span class="hljs-number">2</span>)) + <span class="hljs-string">&#x27; km/h.\n&#x27;</span>)<br>                    cv2.putText(resultImage, <span class="hljs-built_in">str</span>(<span class="hljs-built_in">int</span>(speed)) + <span class="hljs-string">&quot;km/hr&quot;</span>, (<span class="hljs-built_in">int</span>(t_x + t_w / <span class="hljs-number">2</span>), <span class="hljs-built_in">int</span>(t_y)),<br>                            cv2.FONT_HERSHEY_SIMPLEX, <span class="hljs-number">0.5</span>, (<span class="hljs-number">255</span>, <span class="hljs-number">255</span>, <span class="hljs-number">255</span>), <span class="hljs-number">2</span>)<br><br>        cv2.imshow(<span class="hljs-string">&#x27;Monitoring results&#x27;</span>, resultImage)<br><br><br>        <span class="hljs-keyword">if</span> cv2.waitKey(<span class="hljs-number">33</span>) == <span class="hljs-number">27</span>:<br>            <span class="hljs-keyword">break</span><br><br><br><br>    cv2.destroyAllWindows()<br><br><br><span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&#x27;__main__&#x27;</span>:<br>    trackMultipleObjects()<br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="宇宙，父与子"><a href="#宇宙，父与子" class="headerlink" title="宇宙，父与子"></a>宇宙，父与子</h1><p>#一点点不知所谓的吉光片羽<br>父亲年纪大了，年轻的时候经历很丰富。他曾参与人类殖民宇宙计划，负责研究开发飞船技术。……以及……<br>后来老年得子。生下儿子的时候他已经四十多岁了，妻子也是。<br>儿子很健康地长大了，性格也很温顺。<br>后来地球住不下去了……计划开启，各发射基地一批批将飞船发射到既定轨道。<br>能够登上飞船的名额极其有限。他们只分配到两个，可两个也便够用了。妻子几年前就因为生病而去世了，现在他们就要离妻子而去。临走前他带上了妻子墓园里的一小罐泥土。<br>飞船成功发射。<br>进入轨道。<br>发生故障。<br>紧急之下，迫降某个星球。<br>飞船破损严重，但能源供给正常。<br>只有三个人得以幸存，父子俩，还有一位老人。<br>孤独。<br>寂寞。<br>无尽的等待。<br>老者死去。<br>现在只剩父与子。<br>儿子不堪寂寞，自杀。<br>父亲活下去。他要找到新的生存地。带着遗愿。</p>]]></content>
     
+    
+    <categories>
+      
+      <category>一点点不知所谓的吉光片羽</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>寻找童童</title>
+    <link href="/2022/05/14/%E5%AF%BB%E6%89%BE%E7%AB%A5%E7%AB%A5/"/>
+    <url>/2022/05/14/%E5%AF%BB%E6%89%BE%E7%AB%A5%E7%AB%A5/</url>
+    
+    <content type="html"><![CDATA[<h1 id="寻找童童"><a href="#寻找童童" class="headerlink" title="寻找童童"></a>寻找童童</h1><p>#一点点不知所谓的吉光片羽</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>一点点不知所谓的吉光片羽</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>城外事记</title>
+    <link href="/2022/05/14/%E5%9F%8E%E5%A4%96%E4%BA%8B%E8%AE%B0/"/>
+    <url>/2022/05/14/%E5%9F%8E%E5%A4%96%E4%BA%8B%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="城外事记"><a href="#城外事记" class="headerlink" title="城外事记"></a>城外事记</h1><p>#一点点不知所谓的吉光片羽</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>一点点不知所谓的吉光片羽</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220509:痛苦说一遍就够</title>
+    <link href="/2022/05/09/220509%E7%97%9B%E8%8B%A6%E8%AF%B4%E4%B8%80%E9%81%8D%E5%B0%B1%E5%A4%9F/"/>
+    <url>/2022/05/09/220509%E7%97%9B%E8%8B%A6%E8%AF%B4%E4%B8%80%E9%81%8D%E5%B0%B1%E5%A4%9F/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>很痛苦，真的。<br>毕设做不出来了。<br>早上做完核酸，搬东西去了实验室，为了让人不占我的位置，特地喊马哥去了图书馆。<br>在实验室，本来想集中时间快点做出来，可是试了很久，还是做不动。实验室也很吵，里边的研究生学长学姐我一个都不认识。<br>我很痛苦。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220506:苦熬会有出路吗</title>
+    <link href="/2022/05/06/220506%E8%8B%A6%E7%86%AC%E4%BC%9A%E6%9C%89%E5%87%BA%E8%B7%AF%E5%90%97/"/>
+    <url>/2022/05/06/220506%E8%8B%A6%E7%86%AC%E4%BC%9A%E6%9C%89%E5%87%BA%E8%B7%AF%E5%90%97/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>实在不想做毕设了……网上找遍了解决方案，可都解决不了问题……好痛苦…花了一早上的时间，根本没有效果。<br>早上八点半去了图书馆，配置dlib环境，失败，永远是失败。中午没胃口，去学院楼取了册子，回来碰见炮哥，十一点就早早去吃午餐，他吃臊子拌面，我喝了两杯黑米粥，吃了两个鸡蛋。<br>中午在图书馆忙着对付下午的中期检查。下午真是倒霉，第一批就被抽上去检查…还是自己亲手写下自己的名字…教室也太热了，台上站了十多分钟，出了一身汗。<br>赵老师问我笔记在哪里；我说纸质版的没带，只有电子版的，他看了之后问我是不是网上摘下来的？我心中顿时无语，给他解释这是我的博客，爱信不信。<br>晚上吃了酸辣粉，炮哥本来在喝粥，看我吃得香，也去要了一份，哈哈。<br>吃完舒舒服服地回图书馆，站在广场上吹风，吹牛逼。调侃小江跟小雷。<br>因为下午的时候，闵老师转发了专利代理公司的消息，让我重新画专利的CAD图……所以一晚上都在辛苦地画图，真是好没意思，好累。<br>好累…朋友圈的大家都在安慰我，熬过去就好了，可熬过去就一定会好嘛？</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220505:疲惫，汹涌的生活</title>
+    <link href="/2022/05/05/220505%E7%96%B2%E6%83%AB%EF%BC%8C%E6%B1%B9%E6%B6%8C%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
+    <url>/2022/05/05/220505%E7%96%B2%E6%83%AB%EF%BC%8C%E6%B1%B9%E6%B6%8C%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>早上八点起床去了图书馆，十点的时候去拿快递。<br>心心念的开发套件终于到手了，但是显示器出了问题，分辨率不够。害。<br>中午的时候回去吃饭，点了菜。因为不想跟张会林打交道，所以只给勇哥发了消息就回去了。胃口也不怎么好。<br>中午接着回图书馆啦。<br>联系了学长，准备下午去换显示器。两点半的时候去大厅签到，回来看到香香，她给我打招呼，我点点头。<br>其实我心情很不好，为毕设，为毕业后的生活。我今天一天都在强忍疲惫。<br>下午换了显示器，但是系统镜像一直烧录不成功。一下午都在跟客服交流，但是到最后也没能解决。<br>晚餐吃了六个包子。很不好吃。<br>晚上喊了马哥帮我看看，但是也没成功。最后我切换了旧版本的镜像文件，一下子就成功了！正在开班会，高兴得我差点没蹦起来。<br>明天要更加努力才是！<br>（本来都已经不写了，但是离零点还有一点时间，所以再回忆一下今天发生的事吧。早上……早上没什么，中午……中午的菜很咸，感觉食堂的盐都好像不要钱似的。中午吃饭的时候，让室友帮我在二手交易群问问谁有多余的显示器出租，断断续续有几个人加我，可不是嫌弃我出的价格低就是想卖破烂货给我，好痛苦……我还要跟他们说“感谢”，我感谢什么呢。我感谢我的好脾气。五点的时候准备去拿快递，但是想起来还有一个正在派送中，不如两个一起拿吧，我便回宿舍了。吃完六个包子，就去洗澡了。先是把澡篮子放在外边的架子上，跑去打水，打完水又把水壶放门口，再去洗澡。新内裤还不错，但是我觉得不值八十多块钱。晚上去图书馆的时候，是跟马哥一起去的，刚到图书馆，老爸就给我发消息，问我在干嘛，吃饭了没有，我虽然着急做毕设，但也耐着性子回复了。老爸说你快去忙吧，我就扔下手机去捣鼓毕设了。晚上躺在床上，开始在豆瓣发帖子……主要是想展示我的可爱小羊～，没想到最后组长也给我点赞了…，看来是我的小羊太可爱了！）<br>晚安吧，朋友们。睡个好觉，快快长大。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220504:青年节快乐！</title>
+    <link href="/2022/05/04/220504%E9%9D%92%E5%B9%B4%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%81/"/>
+    <url>/2022/05/04/220504%E9%9D%92%E5%B9%B4%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%81/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>其实我根本就没有反应过来，今天是五四青年节。早上看到许多公众号在推送，但我就是想不起来。直到晚上刷朋友圈，看到几张“新青年”的图片，才记起来。<br>无所谓了。快不快乐是真的无所谓了。<br>早上起来已经八点了，匆匆去了图书馆，错过签到时间，在大厅终端预约座位时还碰见了卢姐。一早上都在写生产实习的报告册。<br>中午本来不想吃臊子拌面，可张会林非要吃，搞得我跟勇哥颇有微词。张会林这几天何止是阴阳怪气，简直就是犯贱。我看到这个人，是顶真的不痛快。<br>下午去三教答疑，趁此机会在实验室501借了一台显示器，搬去图书馆。中途搬的时候，同组答疑的女生趁我不在，偷拍我的生产实习报告册，还到处乱发，最后传到我宿舍群。唉，真是无语！<br>由于要拿快递，晚上也没吃饭就去排队。原来是我的羊羊到啦！还有我的几件衣服。我好喜欢我的羊羊，它的名字我都起好了，就叫“电火花”，有“电”，有“火”，有“花”！<br>晚上一直在编译程序，调光算法的输出结果很不理想。眼看后天就要中期检查了，顿时感觉进度很赶……<br>晚上回宿舍吃了一桶泡面，茄皇。中途还问勇哥在不在超市，帮我带了瓶矿泉水。<br>晚安啦……<br>（本来都打算安心睡了，突然又想到香香。中午吃完饭回到图书馆的时候，我又忍不住同人家打招呼，害。晚上想出去抽根烟，走到外边楼梯处，本来在低头看手机，听见有人说“学长拜拜”，听了两遍才听出来是有人给我在打招呼，一抬头，原来是香香！问她为什么走这么早，她说要去洗澡。好吧。）<br>晚安。祝香香也晚安。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220503:胡思乱想，心绪纷飞</title>
+    <link href="/2022/05/03/220503%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3%EF%BC%8C%E5%BF%83%E7%BB%AA%E7%BA%B7%E9%A3%9E/"/>
+    <url>/2022/05/03/220503%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3%EF%BC%8C%E5%BF%83%E7%BB%AA%E7%BA%B7%E9%A3%9E/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>早上没起来，睡到中午，去取了个快递（我的内裤），去超市买了包好吃点，买了包辣条，中午就这么对付了一下，一直看《甄嬛传》到一点半，去洗澡。<br>洗完澡，去图书馆。<br>一下午，一晚上都在写生产实习过程记录册。两支笔本来墨不多了，都被写完了。手腕也很痛。就这，也没写完。明早去了接着写呗。<br>一天都没学英语。很惭愧。<br>由于之前的EMS特快迟迟不派送，只好又重新买了一块新板子，补了差价让卖家发顺丰，即使板子涨价到了一千七，为了毕设……算了下，已经花了三千八百块了。<br>有时候忍不住想，如果有人把你当作“人”去爱你，而不是把你当作“男人”或者“女人”去爱，是多么幸福的一件事。<br>有时候又想，为什么要去承受别人的爱意？<br>我觉得这个世界不好。以前的想法是，既然世界如此万般残酷，何必生育小孩，让他们也来面对呢？但现在想法完全不同了，因为我正要同这个世界去战斗，因此我愿意生养一个小孩，我没有达成的心愿将交由他去实现，他不仅仅是我的孩子，也是我的战友。<br>胡思乱想罢了。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220502:心慌，忘记恐惧</title>
+    <link href="/2022/05/02/220502%E5%BF%83%E6%85%8C%EF%BC%8C%E5%BF%98%E8%AE%B0%E6%81%90%E6%83%A7/"/>
+    <url>/2022/05/02/220502%E5%BF%83%E6%85%8C%EF%BC%8C%E5%BF%98%E8%AE%B0%E6%81%90%E6%83%A7/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>今天早上赶八点半去了图书馆，按计划写了写生产实习过程记录册。<br>中午张总喊我去吃饭，可我不是很想去，也不知道吃什么。最后吃了卤汁捞面，味道也不怎么样。我今天感觉他怪怪的，以前从来没有察觉到他这么没有边界感，心中很不痛快。<br>中午接着看《甄嬛传》，看到三点，出校门坐公交车去了费家营，因为快递迟迟不来，心中着急得要死，顾不得太阳晒，跑去万新路的邮政仓库看了一眼，指望能找到我的快递。可惜了，仓库里小山堆似的快递，整整有三座，全都是交大的，顿时无望起来。工作人员态度都很好，看得出来他们没日没夜地在忙碌，只是仍觉得痛苦，却不知道应该去怪谁。<br>快递不来，毕设没办法接着做，很痛苦，很焦灼。下午接着回图书馆，旁边的男生因为座位问题跟一个人在大厅吵架，最后引来副馆长，导致不能预约的座位都坐不了了……<br>晚上吃了烤肉夹馍，炮哥他们吃的面。<br>晚上仍看了会剧，背了会单词，开完班会就跟勇哥回来了。<br>今天中午又跟香香说了会话，她依旧不愿意跟我聊天的样子…<br>怎么办？想到毕设我就难过，很痛苦，连害怕都不知道了。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220501:劳动节快乐？</title>
+    <link href="/2022/05/01/220501%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%9F/"/>
+    <url>/2022/05/01/220501%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%9F/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>五月的第一天，劳动节，放假第二天。<br>马哥昨晚喊我接着今早接着去吃牛肉面，我回复他“同一个世界同一个梦想”，结果早上实在醒不来，到了六点五十几分马哥给我打电话才吵醒我，只得匆匆回复，“起不来”。<br>转头睡到十点，懒懒地起床洗漱，十一点的时候去图书馆，放完包去吃牛肉面。很难吃。吃完慢慢回去了，勇哥跟张总都吃饭去了。<br>看到香香还没走，于是我走到她身后，看了几秒，出声对她说“这么刻苦啊”，香香回头笑，说做作业时间比较紧张，我问她是不是课设，她说是一个建模的作业，我说“怎么不找学长学姐要，做这个真是浪费时间”，她回复说“每次都不一样”。还说了一些其他的：<br>“怎么还不吃饭”“待会再去吃”“最近都看你没学习，现在不应该专心复习么”“没办法，下周一就要收”“下周一不是放假么”“哦，那就是下周二”“为什么不抄一抄”“没人做，都找我要”。<br>她好像不太想跟我聊天，说话间隙就偏偏头，指着电脑说“那，我继续了”，我无言以对，打扰人家本就理亏，怎么好意思再聊下去。于是我坐回去开始看《甄嬛传》。<br>一直看到两点多，香香来了。她换了一身衣服，鹅黄色的毛衣外套，真漂亮，这颜色很衬她的皮肤。<br>学英语。到了下午六点，勇哥喊我去吃饭，出了校门，决定去吃大胡子羊肉面片，可惜穆斯林今天过节，门都没开，中途喊张总，他却不来，最后我跟勇哥去了小巷子吃了烤肉夹馍。<br>吃完回到图书馆，接着看剧。到了八点，出去抽了根烟，回来背单词。开班会。中间找炮哥的时候还不小心被电源线绊到了，发出巨大的响声，真是尴尬死了。<br>十点就一个人回宿舍了，回来赶在关门前打水，呆呆地玩手机，读陶白白的运势分析。<br>快递怎么还不进来呢？心情很沉重，不知道如何向老师交代。<br>好累，一种难以言喻的累。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>220430:如果不曾辜负春天</title>
+    <link href="/2022/04/30/220430%E5%A6%82%E6%9E%9C%E4%B8%8D%E6%9B%BE%E8%BE%9C%E8%B4%9F%E6%98%A5%E5%A4%A9/"/>
+    <url>/2022/04/30/220430%E5%A6%82%E6%9E%9C%E4%B8%8D%E6%9B%BE%E8%BE%9C%E8%B4%9F%E6%98%A5%E5%A4%A9/</url>
+    
+    <content type="html"><![CDATA[<p>#日记<br>四月的最后一天；即将进入夏天。<br>今天校园解封第一天，终于可以踏出校门了。六点半早早起来和马哥，普哥吃了牛肉面——一个多月没吃了，七点多回到图书馆，八点的时候开始停电，八教也不例外，于是马哥准备早早回去，想着宿舍也没有电，马哥喊我去网吧，我却想去春游。<br>回到宿舍我检查相机有没有电，所幸有电，可惜马哥又反悔，因为宿舍没有停电，他想玩游戏。<br>我一个人也不想出校门，春游计划只好作罢。马哥不是辜负了我，只是不小心辜负了这寂寞的残春。<br>背着相机去图书馆，想喊炮哥出去转转，炮哥也不去；我只好悻悻回到座位，准备读《博尔赫斯谈艺录》和《仲夏之死》。没有电，光线极暗，我把椅子转过来，朝着窗户，在窗台上垫一张纸，把书放在上边静静读书。<br>以前只觉得博尔赫斯的小说是特别好的，没想到这些似散文非散文的文章也写得这么好。最喜欢《马车的铭文》。读《仲夏之死》，最喜欢《春子》和《翅膀》。<br>读着读着，勇哥又回宿舍了，去找室友拆电脑。跟我说话的当儿，香香回过头看着我欲言又止。我假意不知，指了指她右边的座位：原本是张总每天预约的座位，今天他在宿舍睡大觉，舔大直接跑过来坐在这。香香不解，起身走到我座位，原来她想借我充电宝。我借给她，她问我“他怎么了”，我低声回复“他是不是你前男友？”，香香笑，说“不是”。我自然知道不是，是愚蠢的舔狗罢了。<br>快到中午，香香还给我充电宝，她竟然喊我“同学”？！十一点去拿快递，我的六级题。回到图书馆开完班会，没什么胃口的我去食堂喝了杯粥，快去快回。回来觉得甚是无聊，空荡荡的图书馆自习室，光线昏暗，每个座位都黑成一团，把微弱的光亮都吸走了。图书馆没有几个人。节假日，解封后的自由的呼唤，把大家也都吸走了。<br>炮哥去陪女朋友了，勇哥回宿舍找室友了，张总中午也去找他的兄弟搓一顿，马哥窝在宿舍。现在只有我了。<br>一种怅然的寂寥在图书馆蔓延。满心空虚之后，有点后悔没找到机会去加香香的微信。中午回来，她也走掉了。坐了没几分钟，身边的这哥们也走掉了。走掉也好，本来就看他心烦。<br>回宿舍吧要不，去充会电。两点的时候又出门来到图书馆，隔了一会勇哥又回去了，他们宿舍今天聚餐。我心想不如买点什么东西好了。去了超市，买了两盒牛奶。四点多的时候我提前去吃了晚饭，老陈家的肉夹馍跟凉皮。凉皮涨价了，从六块变七块，已然成为了高消费，这也就是今天为什么叫马哥一起去吃的他却不去的原因，“性价比太低”。吃完回校，直接回宿舍准备洗澡，洗完澡换了件衬衫，脱掉了卫衣，穿上条绒外套，慢慢往图书馆去。<br>到了图书馆先是看了会《甄嬛传》，到了八点刚过的时候，香香还没来，我想她今天也许是过节去了，放假跟朋友吃顿饭也是很正常的事。遂出去在图书馆台阶上抽烟，没吸几口，淡淡的夜色下遥遥地看到她跟她两个朋友一起走来。<br>看着她走近，上台阶，和朋友说笑。我吸几口，就盯着她看，她也许看到我了，也许没有。抽完烟，慢慢踱步回到座位。她没回头，可能她知道是我。也许她不喜欢抽烟的男生。<br>背单词，听歌。单曲循环听了一会《普希金（2015）》，又听了一会儿寸铁，就慢慢听Queen乐队。静不下心来…<br>毕设是一点都没做的，慌张也没什么用，所以早就不慌张了。<br>春天不曾辜负每一个人，可有人辜负了春天。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
     
     
   </entry>
