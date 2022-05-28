@@ -1,0 +1,858 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="丑蛮儿">
+  <meta name="keywords" content="">
+  
+    <meta property="og:type" content="website">
+<meta property="og:title" content="Niian‘s Blog">
+<meta property="og:url" content="http://example.com/index.html">
+<meta property="og:site_name" content="Niian‘s Blog">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:author" content="丑蛮儿">
+<meta name="twitter:card" content="summary_large_image">
+  
+  
+  <title>Niian‘s Blog</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.14","typing":{"enable":true,"typeSpeed":120,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 5.4.2"></head>
+
+
+<body>
+  <header style="height: 100vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>Niian&#39;s Blog</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/">
+                <i class="iconfont icon-tags-fill"></i>
+                标签
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              &nbsp;<i class="iconfont icon-search"></i>&nbsp;
+            </a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="秘密花园">
+              
+            </span>
+
+            
+          </div>
+
+          
+            <div class="scroll-down-bar">
+              <i class="iconfont icon-arrowdown"></i>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      <div class="container nopadding-x-md">
+        <div class="py-5" id="board"
+          style=margin-top:0>
+          
+          <div class="container">
+            <div class="row">
+              <div class="col-12 col-md-10 m-auto">
+                
+
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/28/%E5%9F%8E%E5%A4%96%E4%BA%8B%E8%AE%B0/" target="_self">
+          城外事记
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/28/%E5%9F%8E%E5%A4%96%E4%BA%8B%E8%AE%B0/" target="_self">
+          
+          城外事记#一点点不知所谓的吉光片羽
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-28 21:43" pubdate>
+              2022-05-28
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E4%B8%80%E7%82%B9%E7%82%B9%E4%B8%8D%E7%9F%A5%E6%89%80%E8%B0%93%E7%9A%84%E5%90%89%E5%85%89%E7%89%87%E7%BE%BD/">一点点不知所谓的吉光片羽</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/28/%E5%AE%87%E5%AE%99%EF%BC%8C%E7%88%B6%E4%B8%8E%E5%AD%90/" target="_self">
+          宇宙，父与子
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/28/%E5%AE%87%E5%AE%99%EF%BC%8C%E7%88%B6%E4%B8%8E%E5%AD%90/" target="_self">
+          
+          宇宙，父与子#一点点不知所谓的吉光片羽父亲年纪大了，年轻的时候经历很丰富。他曾参与人类殖民宇宙计划，负责研究开发飞船技术。……以及……后来老年得子。生下儿子的时候他已经四十多岁了，妻子也是。儿子很健康地长大了，性格也很温顺。后来地球住不下去了……计划开启，各发射基地一批批将飞船发射到既定轨道。能够登上飞船的名额极其有限。他们只分配到两个，可两个也便够用了。妻子几年前就因为生病而去世了，现在他们就要
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-28 21:43" pubdate>
+              2022-05-28
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E4%B8%80%E7%82%B9%E7%82%B9%E4%B8%8D%E7%9F%A5%E6%89%80%E8%B0%93%E7%9A%84%E5%90%89%E5%85%89%E7%89%87%E7%BE%BD/">一点点不知所谓的吉光片羽</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/28/%E5%AF%BB%E6%89%BE%E7%AB%A5%E7%AB%A5/" target="_self">
+          寻找童童
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/28/%E5%AF%BB%E6%89%BE%E7%AB%A5%E7%AB%A5/" target="_self">
+          
+          寻找童童#一点点不知所谓的吉光片羽
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-28 21:43" pubdate>
+              2022-05-28
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E4%B8%80%E7%82%B9%E7%82%B9%E4%B8%8D%E7%9F%A5%E6%89%80%E8%B0%93%E7%9A%84%E5%90%89%E5%85%89%E7%89%87%E7%BE%BD/">一点点不知所谓的吉光片羽</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/09/220509%E7%97%9B%E8%8B%A6%E8%AF%B4%E4%B8%80%E9%81%8D%E5%B0%B1%E5%A4%9F/" target="_self">
+          220509:痛苦说一遍就够
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/09/220509%E7%97%9B%E8%8B%A6%E8%AF%B4%E4%B8%80%E9%81%8D%E5%B0%B1%E5%A4%9F/" target="_self">
+          
+          #日记很痛苦，真的。毕设做不出来了。早上做完核酸，搬东西去了实验室，为了让人不占我的位置，特地喊马哥去了图书馆。在实验室，本来想集中时间快点做出来，可是试了很久，还是做不动。实验室也很吵，里边的研究生学长学姐我一个都不认识。我很痛苦。
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-09 00:00" pubdate>
+              2022-05-09
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/06/220506%E8%8B%A6%E7%86%AC%E4%BC%9A%E6%9C%89%E5%87%BA%E8%B7%AF%E5%90%97/" target="_self">
+          220506:苦熬会有出路吗
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/06/220506%E8%8B%A6%E7%86%AC%E4%BC%9A%E6%9C%89%E5%87%BA%E8%B7%AF%E5%90%97/" target="_self">
+          
+          #日记实在不想做毕设了……网上找遍了解决方案，可都解决不了问题……好痛苦…花了一早上的时间，根本没有效果。早上八点半去了图书馆，配置dlib环境，失败，永远是失败。中午没胃口，去学院楼取了册子，回来碰见炮哥，十一点就早早去吃午餐，他吃臊子拌面，我喝了两杯黑米粥，吃了两个鸡蛋。中午在图书馆忙着对付下午的中期检查。下午真是倒霉，第一批就被抽上去检查…还是自己亲手写下自己的名字…教室也太热了，台上站了十
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-06 00:00" pubdate>
+              2022-05-06
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/05/220505%E7%96%B2%E6%83%AB%EF%BC%8C%E6%B1%B9%E6%B6%8C%E7%9A%84%E7%94%9F%E6%B4%BB/" target="_self">
+          220505:疲惫，汹涌的生活
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/05/220505%E7%96%B2%E6%83%AB%EF%BC%8C%E6%B1%B9%E6%B6%8C%E7%9A%84%E7%94%9F%E6%B4%BB/" target="_self">
+          
+          #日记早上八点起床去了图书馆，十点的时候去拿快递。心心念的开发套件终于到手了，但是显示器出了问题，分辨率不够。害。中午的时候回去吃饭，点了菜。因为不想跟张会林打交道，所以只给勇哥发了消息就回去了。胃口也不怎么好。中午接着回图书馆啦。联系了学长，准备下午去换显示器。两点半的时候去大厅签到，回来看到香香，她给我打招呼，我点点头。其实我心情很不好，为毕设，为毕业后的生活。我今天一天都在强忍疲惫。下午换了
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-05 00:00" pubdate>
+              2022-05-05
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/04/220504%E9%9D%92%E5%B9%B4%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%81/" target="_self">
+          220504:青年节快乐！
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/04/220504%E9%9D%92%E5%B9%B4%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%81/" target="_self">
+          
+          #日记其实我根本就没有反应过来，今天是五四青年节。早上看到许多公众号在推送，但我就是想不起来。直到晚上刷朋友圈，看到几张“新青年”的图片，才记起来。无所谓了。快不快乐是真的无所谓了。早上起来已经八点了，匆匆去了图书馆，错过签到时间，在大厅终端预约座位时还碰见了卢姐。一早上都在写生产实习的报告册。中午本来不想吃臊子拌面，可张会林非要吃，搞得我跟勇哥颇有微词。张会林这几天何止是阴阳怪气，简直就是犯贱。
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-04 00:00" pubdate>
+              2022-05-04
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/03/220503%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3%EF%BC%8C%E5%BF%83%E7%BB%AA%E7%BA%B7%E9%A3%9E/" target="_self">
+          220503:胡思乱想，心绪纷飞
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/03/220503%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3%EF%BC%8C%E5%BF%83%E7%BB%AA%E7%BA%B7%E9%A3%9E/" target="_self">
+          
+          #日记早上没起来，睡到中午，去取了个快递（我的内裤），去超市买了包好吃点，买了包辣条，中午就这么对付了一下，一直看《甄嬛传》到一点半，去洗澡。洗完澡，去图书馆。一下午，一晚上都在写生产实习过程记录册。两支笔本来墨不多了，都被写完了。手腕也很痛。就这，也没写完。明早去了接着写呗。一天都没学英语。很惭愧。由于之前的EMS特快迟迟不派送，只好又重新买了一块新板子，补了差价让卖家发顺丰，即使板子涨价到了一
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-03 00:00" pubdate>
+              2022-05-03
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/02/220502%E5%BF%83%E6%85%8C%EF%BC%8C%E5%BF%98%E8%AE%B0%E6%81%90%E6%83%A7/" target="_self">
+          220502:心慌，忘记恐惧
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/02/220502%E5%BF%83%E6%85%8C%EF%BC%8C%E5%BF%98%E8%AE%B0%E6%81%90%E6%83%A7/" target="_self">
+          
+          #日记今天早上赶八点半去了图书馆，按计划写了写生产实习过程记录册。中午张总喊我去吃饭，可我不是很想去，也不知道吃什么。最后吃了卤汁捞面，味道也不怎么样。我今天感觉他怪怪的，以前从来没有察觉到他这么没有边界感，心中很不痛快。中午接着看《甄嬛传》，看到三点，出校门坐公交车去了费家营，因为快递迟迟不来，心中着急得要死，顾不得太阳晒，跑去万新路的邮政仓库看了一眼，指望能找到我的快递。可惜了，仓库里小山堆似
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-02 00:00" pubdate>
+              2022-05-02
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/01/220501%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%9F/" target="_self">
+          220501:劳动节快乐？
+        </a>
+      </h1>
+
+      <p class="index-excerpt">
+        <a href="/2022/05/01/220501%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%9F/" target="_self">
+          
+          #日记五月的第一天，劳动节，放假第二天。马哥昨晚喊我接着今早接着去吃牛肉面，我回复他“同一个世界同一个梦想”，结果早上实在醒不来，到了六点五十几分马哥给我打电话才吵醒我，只得匆匆回复，“起不来”。转头睡到十点，懒懒地起床洗漱，十一点的时候去图书馆，放完包去吃牛肉面。很难吃。吃完慢慢回去了，勇哥跟张总都吃饭去了。看到香香还没走，于是我走到她身后，看了几秒，出声对她说“这么刻苦啊”，香香回头笑，说做作
+        </a>
+      </p>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-01 00:00" pubdate>
+              2022-05-01
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-category"></i>
+            
+              <a href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
+            
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
+
+
+
+  <nav aria-label="navigation">
+    <span class="pagination" id="pagination">
+      <span class="page-number current">1</span><a class="page-number" href="/page/2/#board">2</a><a class="page-number" href="/page/3/#board">3</a><a class="extend next" rel="next" href="/page/2/#board"><i class="iconfont icon-arrowright"></i></a>
+    </span>
+  </nav>
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+
+   <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  <!-- 添加网站运行时间 -->
+  <div class="footer-content">
+    <div>
+      <span id="timeDate">载入天数...</span>
+      <span id="times">载入时分秒...</span>
+      <script>
+      var now = new Date();
+      function createtime(){
+          var grt= new Date("04/03/2022 00:00:00");//此处修改你的建站时间或者网站上线时间
+          now.setTime(now.getTime()+250);
+          days = (now - grt ) / 1000 / 60 / 60 / 24;
+          dnum = Math.floor(days);
+          hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum);
+          hnum = Math.floor(hours);
+          if(String(hnum).length ==1 ){
+              hnum = "0" + hnum;
+          }
+          minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+          mnum = Math.floor(minutes);
+          if(String(mnum).length ==1 ){
+                    mnum = "0" + mnum;
+          }
+          seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+          snum = Math.round(seconds);
+          if(String(snum).length ==1 ){
+                    snum = "0" + snum;
+          }
+          document.getElementById("timeDate").innerHTML = "🚀 &nbsp"+dnum+"&nbsp天";  //此次自定义显示内容
+          document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
+      }  //此次自定义显示内容
+      setInterval("createtime()",250);
+      </script>
+    </div>
+  </div>
+  <!-- 统计访问量信息 -->
+  
+  <div class="statistics">
+    
+    
+
+    
+      
+        <!-- 不蒜子统计PV -->
+        <span id="busuanzi_container_site_pv" style="display: none">
+            总访问量 
+            <span id="busuanzi_value_site_pv"></span>
+             次
+          </span>
+      
+      
+        <!-- 不蒜子统计UV -->
+        <span id="busuanzi_container_site_uv" style="display: none">
+            总访客数 
+            <span id="busuanzi_value_site_uv"></span>
+             人
+          </span>
+      
+    
+  </div>
+
+
+  <!-- 个人和备案信息 -->
+  <div>©2022-2022<a href="https:/">liiniian</a> <a target="_blank" rel="noopener" href="http://beian.miit.gov.cn/">备号-2</a></div>
+   <!-- 
+ -->
+  
+</footer>
+
+<!-- SCRIPTS -->
+
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+
+
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+        typing(title);
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+
+
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+
+
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+        typing(title);
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
